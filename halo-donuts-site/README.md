@@ -2,6 +2,13 @@
 
 A mobile-responsive, multi-page static site designed for Halo Donuts.
 
+## GitHub Pages
+
+The Pages workflow at `.github/workflows/deploy-pages.yml` publishes this project's
+`dist/` directory when changes are pushed to `main`. In the repository's
+**Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions**.
+The site URL is `https://jefferydhughes.github.io/Halo-Donuts-Website/`.
+
 ## Quick content updates
 
 - Update the homepage seasonal campaign and Square order URL in `data/site.json`.
