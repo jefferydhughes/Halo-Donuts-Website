@@ -4,3 +4,5 @@
 body { font-family: Montserrat, Arial, sans-serif; font-weight: 400; }
 h1, h2, h3, h4, h5, h6, .display, .section-title, .newsletter h2 { font-family: Montserrat, Arial, sans-serif; font-weight: 700; }
 p, p.eyebrow, .location .status { font-weight: 400; }
+.brand-logo-header { width: 170px; height: 68px; object-fit: cover; object-position: center; mix-blend-mode: multiply; }
+.brand-logo-footer { width: 180px; height: auto; }
